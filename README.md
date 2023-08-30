@@ -1,4 +1,4 @@
-# my-gitconfig
+# My .gitconfig
 
 [user] </br>
   &nbsp; email = YanchenkovNS@?????.ru </br>
